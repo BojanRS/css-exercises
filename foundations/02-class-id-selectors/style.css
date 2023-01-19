@@ -1,0 +1,19 @@
+.classNormal {
+    background-color: #ffc0cb;
+    font-family: Verdana,  "DejaVu Sans", sans-serif;
+}
+
+#firstId {
+    color: #0000ff;
+    font-size: 36px;    
+}
+
+.classPlus {
+    font-size: 24px;
+}
+
+#secondId {
+    background-color: #90ee90;
+    font-weight: bold;
+}
+
